@@ -3,7 +3,7 @@ This tool generates synthetic data for simulating customer information, transact
 
 ## Demo
 
-[https://cidscapital.github.io/Finance-Retailer-Data-Generator/](Demo) 
+[Tool Demo](https://cidscapital.github.io/Finance-Retailer-Data-Generator/) 
 
 ## Features
 - Generates synthetic customer data including demographics, income, education level, etc.
