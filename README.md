@@ -1,15 +1,16 @@
 # Finance-Retailer-Data-Generator
 This tool generates synthetic data for simulating customer information, transaction history, and loan data for a retail financial institution. The generated data can be used for various purposes such as customer relationship management (CRM), predictive modeling, and data analysis.
 
+## Demo
+
+[https://cidscapital.github.io/Finance-Retailer-Data-Generator/](Demo) 
+
 ## Features
 - Generates synthetic customer data including demographics, income, education level, etc.
 - Simulates transaction history data with details such as transaction amount, date, and type.
 - Generates loan data with attributes including loan amount, duration, interest rate, etc.
 - Allows customization of data size and distribution parameters.
 - Outputs data in CSV format for easy integration with data analysis tools.
-
-## Demo
-
 
 ## Installation
 1. Clone or download the repository.
